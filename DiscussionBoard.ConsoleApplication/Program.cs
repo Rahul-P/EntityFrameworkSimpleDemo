@@ -18,8 +18,8 @@ namespace DiscussionBoard.ConsoleApplication
             // UNCOMMENT This when you have done reading about SetInitializer 
             // section in the ARTICLE.
             // Disabling Database Initialization
-            Database.SetInitializer(new NullDatabaseInitializer
-               <DiscussionBoardContext>());
+            //Database.SetInitializer(new NullDatabaseInitializer
+              // <DiscussionBoardContext>());
 
             // Initial Inserts
 
